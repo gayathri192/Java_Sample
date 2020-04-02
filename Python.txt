@@ -1,1 +1,2 @@
 First programming language
+cross platform
